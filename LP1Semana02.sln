@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBot", "ChatBot\ChatBot.csproj", "{60D544DF-D11D-4303-91D4-82B5880DD4A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindro", "Cilindro\Cilindro.csproj", "{1A1364D7-8A4F-486D-82DC-D56B3E1BEAF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncDec", "IncDec\IncDec.csproj", "{A0F9E72E-7DB0-45B8-96A1-1C981ED2B5F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piramide", "Piramide\Piramide.csproj", "{ACD15971-F1A1-497B-BB80-808ED17DAD09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkynetPatternSwitch", "SkynetPatternSwitch\SkynetPatternSwitch.csproj", "{FF70C553-79DE-4C64-854E-C200471F4B34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValoresEspeciais", "ValoresEspeciais\ValoresEspeciais.csproj", "{B10BD314-1C38-4265-ADA9-F36A6AE22F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D544DF-D11D-4303-91D4-82B5880DD4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D544DF-D11D-4303-91D4-82B5880DD4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D544DF-D11D-4303-91D4-82B5880DD4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D544DF-D11D-4303-91D4-82B5880DD4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1364D7-8A4F-486D-82DC-D56B3E1BEAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1364D7-8A4F-486D-82DC-D56B3E1BEAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1364D7-8A4F-486D-82DC-D56B3E1BEAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1364D7-8A4F-486D-82DC-D56B3E1BEAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F9E72E-7DB0-45B8-96A1-1C981ED2B5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F9E72E-7DB0-45B8-96A1-1C981ED2B5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F9E72E-7DB0-45B8-96A1-1C981ED2B5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F9E72E-7DB0-45B8-96A1-1C981ED2B5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD15971-F1A1-497B-BB80-808ED17DAD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD15971-F1A1-497B-BB80-808ED17DAD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD15971-F1A1-497B-BB80-808ED17DAD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD15971-F1A1-497B-BB80-808ED17DAD09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF70C553-79DE-4C64-854E-C200471F4B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF70C553-79DE-4C64-854E-C200471F4B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF70C553-79DE-4C64-854E-C200471F4B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF70C553-79DE-4C64-854E-C200471F4B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10BD314-1C38-4265-ADA9-F36A6AE22F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10BD314-1C38-4265-ADA9-F36A6AE22F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10BD314-1C38-4265-ADA9-F36A6AE22F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10BD314-1C38-4265-ADA9-F36A6AE22F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
